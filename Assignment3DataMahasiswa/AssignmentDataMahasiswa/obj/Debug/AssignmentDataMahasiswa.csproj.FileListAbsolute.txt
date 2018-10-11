@@ -1,0 +1,10 @@
+E:\Pemrograman\AssignmentDataMahasiswa\AssignmentDataMahasiswa\bin\Debug\AssignmentDataMahasiswa.exe.config
+E:\Pemrograman\AssignmentDataMahasiswa\AssignmentDataMahasiswa\bin\Debug\AssignmentDataMahasiswa.exe
+E:\Pemrograman\AssignmentDataMahasiswa\AssignmentDataMahasiswa\bin\Debug\AssignmentDataMahasiswa.pdb
+E:\Pemrograman\AssignmentDataMahasiswa\AssignmentDataMahasiswa\obj\Debug\AssignmentDataMahasiswa.csprojAssemblyReference.cache
+E:\Pemrograman\AssignmentDataMahasiswa\AssignmentDataMahasiswa\obj\Debug\AssignmentDataMahasiswa.Form1.resources
+E:\Pemrograman\AssignmentDataMahasiswa\AssignmentDataMahasiswa\obj\Debug\AssignmentDataMahasiswa.Properties.Resources.resources
+E:\Pemrograman\AssignmentDataMahasiswa\AssignmentDataMahasiswa\obj\Debug\AssignmentDataMahasiswa.csproj.GenerateResource.cache
+E:\Pemrograman\AssignmentDataMahasiswa\AssignmentDataMahasiswa\obj\Debug\AssignmentDataMahasiswa.csproj.CoreCompileInputs.cache
+E:\Pemrograman\AssignmentDataMahasiswa\AssignmentDataMahasiswa\obj\Debug\AssignmentDataMahasiswa.exe
+E:\Pemrograman\AssignmentDataMahasiswa\AssignmentDataMahasiswa\obj\Debug\AssignmentDataMahasiswa.pdb
